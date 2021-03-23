@@ -1,0 +1,115 @@
+commit ee0d3cb1216ba9e90899777681c408a8b29ce047
+Author: Leevi <leevi.lepola@gmail.com>
+Date:   Tue Mar 23 20:40:35 2021 +0200
+
+    file1 poistettu ja file2 uudelleennimetty
+
+ tiedostoja/file1  | 0
+ tiedostoja/file2  | 0
+ tiedostoja/file22 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 5f3a75e8ecbc25a8cfb16785bc7ce53cd129e224
+Author: Leevi <leevi.lepola@gmail.com>
+Date:   Tue Mar 23 20:32:18 2021 +0200
+
+    lisätty tiedostoja
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 8c8fc3ba81ac9cb1ddbd0fe38281a56e7c2c6f3d
+Author: Leevi <leevi.lepola@gmail.com>
+Date:   Tue Mar 23 20:22:13 2021 +0200
+
+    muokkauksia ekaan ja kolmanteen
+
+ eka.txt    |  4 ++--
+ kolmas.txt | 10 +---------
+ 2 files changed, 3 insertions(+), 11 deletions(-)
+
+commit 135f3083c5ed3f1edc83705929e2c32730d3fce5
+Author: Leevi <leevi.lepola@gmail.com>
+Date:   Tue Mar 23 20:17:10 2021 +0200
+
+    tiedosto.txt uudelleennimetty
+
+ eka.txt      | 2 ++
+ tiedosto.txt | 2 --
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+
+commit 1e809301eb45ca8706beac90c563252436db20b4
+Author: Leevi <leevi.lepola@gmail.com>
+Date:   Tue Mar 23 20:15:24 2021 +0200
+
+    toinen.txt poistettu
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 7d8f7e08c819e771d1d61a17b4e55147d1fd3f81
+Author: Leevi <leevi.lepola@gmail.com>
+Date:   Tue Mar 23 20:11:57 2021 +0200
+
+    tiedosto.txt muokkaus 2
+
+ tiedosto.txt | 5 +----
+ 1 file changed, 1 insertion(+), 4 deletions(-)
+
+commit 6bc65f25a6fc8c1945c5e141a4cf45a1062188ce
+Author: Leevi <leevi.lepola@gmail.com>
+Date:   Tue Mar 23 20:06:56 2021 +0200
+
+    tiedosto.txt muokkaus
+
+ tiedosto.txt | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit c244402bc14512ffe6e1f5a5e2d66ccabcd070b8
+Author: Leevi <leevi.lepola@gmail.com>
+Date:   Tue Mar 23 19:57:53 2021 +0200
+
+    stuff
+
+ stuff/jokin_tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 1530ec98091090f5c551bec37b01dfcb345cd3c7
+Author: Leevi <leevi.lepola@gmail.com>
+Date:   Tue Mar 23 19:55:39 2021 +0200
+
+    muutoksia
+
+ kolmas.txt | 9 +++++++++
+ toinen.txt | 1 +
+ 2 files changed, 10 insertions(+)
+
+commit c5ffdc37dee1e076c4856c0bcf5a7cdae96c7cb5
+Author: Leevi <leevi.lepola@gmail.com>
+Date:   Tue Mar 23 19:50:58 2021 +0200
+
+    kolmas.txt luotu
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit e81a1f2257cd8430802a1cae53c76ded4871adef
+Author: Leevi <leevi.lepola@gmail.com>
+Date:   Tue Mar 23 19:44:41 2021 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 3 +++
+ toinen.txt   | 0
+ 2 files changed, 3 insertions(+)
+
+commit 46a487978e747193580b00f2996bce40b73f1976
+Author: Leevi <leevi.lepola@gmail.com>
+Date:   Tue Mar 23 19:36:42 2021 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
