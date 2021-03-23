@@ -1,7 +1,5 @@
-#README
-
-Tämä on tekstiä.
-Tekstin voi myös _kursivoida_.
-Halutessaan tekstin voi myös **lihavoida**.
-Jopa molempien käyttö _**yhtä aikaa**_ on mahdollista!
-
+# Ohjelmistotekniikka, harjoitustyö
+## Tehtävät
+### Viikko 1
+[gitlog.txt](https://github.com/Sinilintu7/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)\
+[komentorivi.txt](https://github.com/Sinilintu7/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
